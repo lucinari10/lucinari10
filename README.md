@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucinarii)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucinari10&show_icons=true&theme=gruvbox)](https://github.com/lucinari10/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
