@@ -1,6 +1,6 @@
-## Vinicius Lucinari 🖐️
+## Lucca Duque 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucinarii)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccaduque/)
 
 
 ## Tecnologias que eu uso no meu dia
